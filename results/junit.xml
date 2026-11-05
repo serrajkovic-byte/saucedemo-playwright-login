@@ -1,40 +1,22 @@
-<testsuites id="" name="" tests="9" failures="0" skipped="9" errors="0" time="0.01860400000000004">
-<testsuite name="login.spec.js" timestamp="2026-11-05T17:16:51.303Z" hostname="" tests="9" failures="0" skipped="9" time="0" errors="0">
-<testcase name="SauceDemo - Login access › LOGIN-01: login form controls are visible" classname="login.spec.js">
-<skipped>
-</skipped>
+<testsuites id="" name="" tests="9" failures="0" skipped="0" errors="0" time="6.906466">
+<testsuite name="login.spec.js" timestamp="2026-11-05T19:05:10.190Z" hostname="" tests="9" failures="0" skipped="0" time="41.449" errors="0">
+<testcase name="SauceDemo - Login access › LOGIN-01: login form controls are visible" classname="login.spec.js" time="4.509">
 </testcase>
-<testcase name="SauceDemo - Login access › LOGIN-02: standard user can log in" classname="login.spec.js">
-<skipped>
-</skipped>
+<testcase name="SauceDemo - Login access › LOGIN-02: standard user can log in" classname="login.spec.js" time="4.975">
 </testcase>
-<testcase name="SauceDemo - Login access › LOGIN-03: locked-out user cannot log in" classname="login.spec.js">
-<skipped>
-</skipped>
+<testcase name="SauceDemo - Login access › LOGIN-03: locked-out user cannot log in" classname="login.spec.js" time="4.374">
 </testcase>
-<testcase name="SauceDemo - Login access › LOGIN-04: unknown username is rejected" classname="login.spec.js">
-<skipped>
-</skipped>
+<testcase name="SauceDemo - Login access › LOGIN-04: unknown username is rejected" classname="login.spec.js" time="4.91">
 </testcase>
-<testcase name="SauceDemo - Login validation › LOGIN-05: incorrect password is rejected" classname="login.spec.js">
-<skipped>
-</skipped>
+<testcase name="SauceDemo - Login validation › LOGIN-05: incorrect password is rejected" classname="login.spec.js" time="4.641">
 </testcase>
-<testcase name="SauceDemo - Login validation › LOGIN-06: empty username and password are rejected" classname="login.spec.js">
-<skipped>
-</skipped>
+<testcase name="SauceDemo - Login validation › LOGIN-06: empty username and password are rejected" classname="login.spec.js" time="4.322">
 </testcase>
-<testcase name="SauceDemo - Login validation › LOGIN-07: missing password is rejected" classname="login.spec.js">
-<skipped>
-</skipped>
+<testcase name="SauceDemo - Login validation › LOGIN-07: missing password is rejected" classname="login.spec.js" time="4.9">
 </testcase>
-<testcase name="SauceDemo - Login validation › LOGIN-08: missing username is rejected" classname="login.spec.js">
-<skipped>
-</skipped>
+<testcase name="SauceDemo - Login validation › LOGIN-08: missing username is rejected" classname="login.spec.js" time="4.281">
 </testcase>
-<testcase name="SauceDemo - Login validation › LOGIN-09: password characters are masked" classname="login.spec.js">
-<skipped>
-</skipped>
+<testcase name="SauceDemo - Login validation › LOGIN-09: password characters are masked" classname="login.spec.js" time="4.537">
 </testcase>
 </testsuite>
 </testsuites>
