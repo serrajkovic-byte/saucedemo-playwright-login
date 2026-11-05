@@ -1,0 +1,19 @@
+{
+  "name": "saucedemo-playwright-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:login": "playwright test tests/login.spec.js",
+    "test:headed": "playwright test tests/login.spec.js --headed",
+    "test:ui": "playwright test tests/login.spec.js --ui",
+    "report": "playwright show-report"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.6"
+  }
+}
